@@ -4,7 +4,6 @@ Shell for PF4J
 =====================
 [![Join the chat at https://gitter.im/decebals/pf4j](https://badges.gitter.im/decebals/pf4j.svg)](https://gitter.im/decebals/pf4j?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub Actions Status](https://github.com/pf4j/pf4j-shell/actions/workflows/build.yml/badge.svg)](https://github.com/pf4j/pf4j-shell/actions/workflows/build.yml)
-[![Coverage Status](https://coveralls.io/repos/pf4j/pf4j-shell/badge.svg?branch=master&service=github)](https://coveralls.io/github/pf4j/pf4j-shell?branch=master)
 [![Maven Central](http://img.shields.io/maven-central/v/org.pf4j/pf4j-shell.svg)](http://search.maven.org/#search|ga|1|pf4j=shell)
 
 Interactive shell for [PF4J](http://pf4j.org).
