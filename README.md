@@ -14,7 +14,7 @@ You can interact with the `PluginManager` (see `manager` command) and execute th
 - display `info` about manager (_plugins_roots_, _system_version_, _runtime_mode_)
 - see `unresolved` plugins
 - see all the `extensions` added by the all plugins
-- `which` plugin loaded the given class
+- `which` plugin loaded the given class (as parameter)
 
 You can interact with plugins (see `plugins` command) and execute the following actions:
 - display `info` about all plugins (_id_, _version_, _state_)
@@ -27,9 +27,9 @@ You can interact with plugins (see `plugins` command) and execute the following 
 You can interact with a specific plugin (see `plugin` command) and execute the following actions:
 - display `info` about plugin (_id_, _version_, _state_, _path_, _provider_, _description_, _dependencies_, _classloader_, ..)
 - `load` plugin
-- `unload` plugins
-- `start` plugins
-- `stop` plugins
+- `unload` plugin
+- `start` plugin
+- `stop` plugin
 
 You can interact with `ClassLoader`s (see `classloader` command)  and execute the following actions:
 - display `info` about all classloaders
